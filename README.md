@@ -3,7 +3,7 @@ Welcome to my Github profile!
 
 If you want, you can check out my website as well:
 
-[![Website](https://img.shields.io/website?label=erarnitox.de&style=for-the-badge&url=https%3A%2F%2Ferarnitox.de)](https://mr-mubelbubel.github.io/maximilian-wedde/)
+[![Website](https://img.shields.io/website?label=Mr-MubelBubel.io&style=for-the-badge&url=https%3A%2F%2Ferarnitox.de)](https://mr-mubelbubel.github.io/maximilian-wedde/)
 
 
 ## 📊 Github Stats
