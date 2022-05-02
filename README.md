@@ -1,7 +1,7 @@
-### Hi there :)
-Welcome to my Github profile!
+### Hello guys
+Here is my GitHub profile with any projects.
 
-If you want, you can check out my website as well:
+If you have enough time for that, you will check out my website:
 
 [![Website](https://img.shields.io/website?label=Mr-MubelBubel.io&style=for-the-badge&url=https%3A%2F%2Ferarnitox.de)](https://mr-mubelbubel.github.io/maximilian-wedde/)
 
