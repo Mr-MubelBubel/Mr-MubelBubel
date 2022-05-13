@@ -3,7 +3,7 @@ Here is my GitHub profile with any projects.
 
 If you have enough time for that, you will check out my website:
 
-[![Website](https://img.shields.io/website?label=Mr-MubelBubel.io&style=for-the-badge&url=https%3A%2F%2Ferarnitox.de)](https://mr-mubelbubel.github.io/maximilian-wedde/)
+[![Website](https://img.shields.io/website?label=Mr-MubelBubel.io&style=for-the-badge&url=https%3A%2F%2Ferarnitox.de)](https://mr-mubelbubel.github.io/portfolio/)
 
 
 ## 📊 Github Stats
