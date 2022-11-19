@@ -60,4 +60,4 @@ If you have enough time for that, you will check out my website:
 ![Ai](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white)
 ![Ps](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
 
-Overview for all Badges ![here](https://github.com/Ileriayo/markdown-badges)
+Overview for all Badges [here](https://github.com/Ileriayo/markdown-badges)
